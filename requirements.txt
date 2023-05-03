@@ -18,7 +18,7 @@ entrypoints==0.4
 etils==0.7.1
 executing==0.10.0
 filelock==3.8.0
-Flask==2.2.1
+Flask==2.2.5
 Flask-Uploads==0.2.1
 flatbuffers==2.0
 fonttools==4.35.0
