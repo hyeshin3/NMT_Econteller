@@ -123,13 +123,13 @@ toml==0.10.2
 torchsummary==1.5.1
 torchtext==0.13.1
 #torchvision==0.13.1+cpu
-tornado==6.2
+tornado==6.3.3
 tqdm==4.64.0
 traitlets==5.3.0
 transformers==4.21.1
 typing-extensions==4.3.0
 urllib3==1.24.3
 wcwidth==0.2.5
-Werkzeug==2.2.1
+Werkzeug==3.0.1
 wrapt==1.14.1
 zipp==3.8.1
