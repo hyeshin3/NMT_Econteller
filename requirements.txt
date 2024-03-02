@@ -133,3 +133,4 @@ wcwidth==0.2.5
 Werkzeug==2.2.1
 wrapt==1.14.1
 zipp==3.8.1
+torch>=1.13.0 # not directly required, pinned by Snyk to avoid a vulnerability
