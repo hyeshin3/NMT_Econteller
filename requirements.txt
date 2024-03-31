@@ -63,7 +63,7 @@ more-itertools==8.14.0
 nest-asyncio==1.5.5
 networkx==2.6.3
 nltk==3.7
-numpy==1.21.6
+numpy==1.22.2
 oauthlib==3.2.0
 opt-einsum==3.3.0
 packaging==21.3
@@ -133,3 +133,5 @@ wcwidth==0.2.5
 Werkzeug==2.2.1
 wrapt==1.14.1
 zipp==3.8.1
+scipy>=1.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
